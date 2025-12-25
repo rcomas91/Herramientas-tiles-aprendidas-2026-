@@ -84,4 +84,4 @@ Para potenciar tu negocio:
 
 24-readme.so: Para mejorar los archivos readme.md de tus repositorios  
 
-39-Prompt.Lyra: usado para potenciar el uso de chatgpt (para usarlo elige new proj-/>Config/>Instructions y agrega las instruccines)
+39-Prompt.Lyra: usado para potenciar el uso de chatgpt (para usarlo elige new proj-/>Config/>Instructions y agrega las instrucciones)
